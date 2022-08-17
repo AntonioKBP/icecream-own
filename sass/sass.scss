@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Titan+One&display=swap');
+
+@import './utils/_hidden.scss';
+@import './utils/_normalize.scss';
+
+@import './base/_main.scss';
+
+@import './modal/_backdrop.scss';
+@import './modal/_modal.scss';
+
+@import './modal/modal-buy';
+@import './modal/modal-about';
+@import './modal/modal-location';
+
+
+@import './_container.scss';
+
+@import './modal/check-modal'
+
